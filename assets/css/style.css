@@ -1,0 +1,27 @@
+h1, p {
+    text-align: center;
+    line-height: 50px;
+}
+
+.traininfo {
+    padding: 20px;
+}
+
+tbody{
+    text-align: center;
+}
+
+body{
+    background-image: url("../images/train.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+ .jumbotron, .card{
+     background: none;
+ }
+
+ .card{
+     color: orange;
+     font-size: 24px;
+ }
