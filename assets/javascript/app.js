@@ -29,7 +29,6 @@ $("#submit").on("click", function (event) {
     console.log(time.time);
     console.log(freq.freq);
 
-    alert("Train Added");
     $("#train-input").val("");
     $("#dest-input").val("");
     $("#time-input").val("");
