@@ -6,7 +6,9 @@ I wanted to create a train scheduler that can be used by millennials to keep tra
 The customized Train Scheduler can be used here https://tonyphak.github.io/Train_Scheduler/
 ## Screenshots
 1. Where the information for the train is entered, including: Train Name, Destination, First arrival time, and Frequency.
+![Image of input scree](https://github.com/tonyphak/Train_Scheduler/blob/master/assets/images/Train%202.png)
 2. Where the train information is displayed, including: Train Name, Destination, Frequency of Arrival, Next Arrival, and how many minutes away.
+![Image of information screen](https://github.com/tonyphak/Train_Scheduler/blob/master/assets/images/Train%201.png)
 ## Technologies Used
 * Bootstrap
 * Jquery
